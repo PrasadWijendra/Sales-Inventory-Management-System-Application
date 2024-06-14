@@ -1,7 +1,8 @@
 <h1>Sales and Inventory management System</h1>
 <h2>Introduction</h2>
 <p>This application was generally created for an auto parts shop. 
-  Item management that means add, update and delete and item selling is a grant function. 
+  Item management that means add, update and delete and item selling is a grant function.
+  Exception handling and validation are used. 
   It is completely using java language and has three database tables.</p>
   <h2>Function</h2>
   <ul>
