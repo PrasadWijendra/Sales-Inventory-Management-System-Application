@@ -15,9 +15,19 @@
     <li>sell item</li>
     <li>view report</li>
   </ul>
+  
   <h2>Software Development Tool</h2>
-  <p>Netbeans</p>
+  <ul>
+    <li>Netbeans</li>
+    <li>Wamp Server</li>
+  </ul>
+  
   <h2>Languages</h2>
-  <p>Java</p>
+   <ul>
+    <li>Java</li>
+  </ul>
+  
   <h2>Database Tool</h2>
-  <p>MySQL</p>
+  <ul>
+    <li>MySQL</li>
+  </ul>
